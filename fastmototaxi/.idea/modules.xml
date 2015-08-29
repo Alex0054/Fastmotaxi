@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
+<<<<<<< HEAD
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastmototaxi.iml" filepath="$PROJECT_DIR$/fastmototaxi.iml" />
     </modules>
+=======
+    <modules />
+>>>>>>> fa93d3d25b2566944c2c6633a30f3b8442aff88e
   </component>
 </project>
